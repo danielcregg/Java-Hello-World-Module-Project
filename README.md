@@ -1,2 +1,2 @@
-# eclipse-java-project-template
-This is a template for an Eclipse Java Project
+# eclipse-java-hello-world-module-project
+Hello World Module
